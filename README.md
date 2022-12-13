@@ -1,7 +1,8 @@
 # mytmux
 
+To install the package, type the following: 
 
-```
+```bash
 
 mkdir ~/.tmux.conf.d/
 cd ~/.tmux.conf.d/
